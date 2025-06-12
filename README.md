@@ -1,6 +1,10 @@
 # projeto_python
 Projeto em python de Transcrição por Video por meio de IA
 
+#ALUNOS:
+#MIZAEL LEITE FERREIRA | 202208722067
+#PEDRO HENRIQUE BARROS GOMES | 202303967926
+
 
 DESCRIÇÃO GERAL
 
